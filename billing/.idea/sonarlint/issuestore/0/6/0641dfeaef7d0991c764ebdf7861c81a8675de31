@@ -1,0 +1,8 @@
+
+t
+java:S1710"8Remove the 'Mappings' wrapper from this annotation group(„”‘ñJ$7d12c945-61c8-479f-8b91-1b64419086a3
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Â”—J$e66ea409-6c4c-47f4-9abb-2c8b2333f0e6
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¿×÷J$782b6f72-25fe-463e-908f-d0de3dfb9d94
+w	java:S125"<This block of commented-out lines of code should be removed.(Ú˜…ŠJ$c86c2340-58bd-4cba-b4d4-bf5eba8660c8
+c
+java:S1128"FRemove this unused import 'org.mapstruct.InheritInverseConfiguration'.(¦ø³Þ8š“ˆž‰2
